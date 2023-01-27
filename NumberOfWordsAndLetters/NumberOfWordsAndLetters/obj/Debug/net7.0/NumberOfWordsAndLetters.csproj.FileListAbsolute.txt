@@ -1,0 +1,15 @@
+D:\Emirin yazılım şeysileri\cSharp-101\NumberOfWordsAndLetters\NumberOfWordsAndLetters\bin\Debug\net7.0\NumberOfWordsAndLetters.exe
+D:\Emirin yazılım şeysileri\cSharp-101\NumberOfWordsAndLetters\NumberOfWordsAndLetters\bin\Debug\net7.0\NumberOfWordsAndLetters.deps.json
+D:\Emirin yazılım şeysileri\cSharp-101\NumberOfWordsAndLetters\NumberOfWordsAndLetters\bin\Debug\net7.0\NumberOfWordsAndLetters.runtimeconfig.json
+D:\Emirin yazılım şeysileri\cSharp-101\NumberOfWordsAndLetters\NumberOfWordsAndLetters\bin\Debug\net7.0\NumberOfWordsAndLetters.dll
+D:\Emirin yazılım şeysileri\cSharp-101\NumberOfWordsAndLetters\NumberOfWordsAndLetters\bin\Debug\net7.0\NumberOfWordsAndLetters.pdb
+D:\Emirin yazılım şeysileri\cSharp-101\NumberOfWordsAndLetters\NumberOfWordsAndLetters\obj\Debug\net7.0\NumberOfWordsAndLetters.csproj.AssemblyReference.cache
+D:\Emirin yazılım şeysileri\cSharp-101\NumberOfWordsAndLetters\NumberOfWordsAndLetters\obj\Debug\net7.0\NumberOfWordsAndLetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emirin yazılım şeysileri\cSharp-101\NumberOfWordsAndLetters\NumberOfWordsAndLetters\obj\Debug\net7.0\NumberOfWordsAndLetters.AssemblyInfoInputs.cache
+D:\Emirin yazılım şeysileri\cSharp-101\NumberOfWordsAndLetters\NumberOfWordsAndLetters\obj\Debug\net7.0\NumberOfWordsAndLetters.AssemblyInfo.cs
+D:\Emirin yazılım şeysileri\cSharp-101\NumberOfWordsAndLetters\NumberOfWordsAndLetters\obj\Debug\net7.0\NumberOfWordsAndLetters.csproj.CoreCompileInputs.cache
+D:\Emirin yazılım şeysileri\cSharp-101\NumberOfWordsAndLetters\NumberOfWordsAndLetters\obj\Debug\net7.0\NumberOfWordsAndLetters.dll
+D:\Emirin yazılım şeysileri\cSharp-101\NumberOfWordsAndLetters\NumberOfWordsAndLetters\obj\Debug\net7.0\refint\NumberOfWordsAndLetters.dll
+D:\Emirin yazılım şeysileri\cSharp-101\NumberOfWordsAndLetters\NumberOfWordsAndLetters\obj\Debug\net7.0\NumberOfWordsAndLetters.pdb
+D:\Emirin yazılım şeysileri\cSharp-101\NumberOfWordsAndLetters\NumberOfWordsAndLetters\obj\Debug\net7.0\NumberOfWordsAndLetters.genruntimeconfig.cache
+D:\Emirin yazılım şeysileri\cSharp-101\NumberOfWordsAndLetters\NumberOfWordsAndLetters\obj\Debug\net7.0\ref\NumberOfWordsAndLetters.dll
