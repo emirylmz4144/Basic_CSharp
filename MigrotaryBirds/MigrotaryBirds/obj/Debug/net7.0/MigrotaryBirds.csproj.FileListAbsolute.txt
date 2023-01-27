@@ -1,0 +1,15 @@
+D:\Emirin yazılım şeysileri\cSharp-101\MigrotaryBirds\MigrotaryBirds\bin\Debug\net7.0\MigrotaryBirds.exe
+D:\Emirin yazılım şeysileri\cSharp-101\MigrotaryBirds\MigrotaryBirds\bin\Debug\net7.0\MigrotaryBirds.deps.json
+D:\Emirin yazılım şeysileri\cSharp-101\MigrotaryBirds\MigrotaryBirds\bin\Debug\net7.0\MigrotaryBirds.runtimeconfig.json
+D:\Emirin yazılım şeysileri\cSharp-101\MigrotaryBirds\MigrotaryBirds\bin\Debug\net7.0\MigrotaryBirds.dll
+D:\Emirin yazılım şeysileri\cSharp-101\MigrotaryBirds\MigrotaryBirds\bin\Debug\net7.0\MigrotaryBirds.pdb
+D:\Emirin yazılım şeysileri\cSharp-101\MigrotaryBirds\MigrotaryBirds\obj\Debug\net7.0\MigrotaryBirds.csproj.AssemblyReference.cache
+D:\Emirin yazılım şeysileri\cSharp-101\MigrotaryBirds\MigrotaryBirds\obj\Debug\net7.0\MigrotaryBirds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emirin yazılım şeysileri\cSharp-101\MigrotaryBirds\MigrotaryBirds\obj\Debug\net7.0\MigrotaryBirds.AssemblyInfoInputs.cache
+D:\Emirin yazılım şeysileri\cSharp-101\MigrotaryBirds\MigrotaryBirds\obj\Debug\net7.0\MigrotaryBirds.AssemblyInfo.cs
+D:\Emirin yazılım şeysileri\cSharp-101\MigrotaryBirds\MigrotaryBirds\obj\Debug\net7.0\MigrotaryBirds.csproj.CoreCompileInputs.cache
+D:\Emirin yazılım şeysileri\cSharp-101\MigrotaryBirds\MigrotaryBirds\obj\Debug\net7.0\MigrotaryBirds.dll
+D:\Emirin yazılım şeysileri\cSharp-101\MigrotaryBirds\MigrotaryBirds\obj\Debug\net7.0\refint\MigrotaryBirds.dll
+D:\Emirin yazılım şeysileri\cSharp-101\MigrotaryBirds\MigrotaryBirds\obj\Debug\net7.0\MigrotaryBirds.pdb
+D:\Emirin yazılım şeysileri\cSharp-101\MigrotaryBirds\MigrotaryBirds\obj\Debug\net7.0\MigrotaryBirds.genruntimeconfig.cache
+D:\Emirin yazılım şeysileri\cSharp-101\MigrotaryBirds\MigrotaryBirds\obj\Debug\net7.0\ref\MigrotaryBirds.dll
