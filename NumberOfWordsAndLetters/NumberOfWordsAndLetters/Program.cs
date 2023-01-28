@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Numerics;
 
 namespace NumberOfWordAndLetters
 {
@@ -14,6 +15,9 @@ namespace NumberOfWordAndLetters
         {
             int wordQuality=1;
             int letterQuality=0;
+
+            int deger = int.Parse(Console.ReadLine());
+            Console.WriteLine(++deger);
 
             for(int i=0;i<word.Length;i++)
             {
