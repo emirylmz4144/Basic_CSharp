@@ -1,0 +1,15 @@
+D:\Emirin yazılım şeysileri\c#\DeleteToValuesInDictionary\DeleteToValuesInDictionary\bin\Debug\net7.0\DeleteToValuesInDictionary.exe
+D:\Emirin yazılım şeysileri\c#\DeleteToValuesInDictionary\DeleteToValuesInDictionary\bin\Debug\net7.0\DeleteToValuesInDictionary.deps.json
+D:\Emirin yazılım şeysileri\c#\DeleteToValuesInDictionary\DeleteToValuesInDictionary\bin\Debug\net7.0\DeleteToValuesInDictionary.runtimeconfig.json
+D:\Emirin yazılım şeysileri\c#\DeleteToValuesInDictionary\DeleteToValuesInDictionary\bin\Debug\net7.0\DeleteToValuesInDictionary.dll
+D:\Emirin yazılım şeysileri\c#\DeleteToValuesInDictionary\DeleteToValuesInDictionary\bin\Debug\net7.0\DeleteToValuesInDictionary.pdb
+D:\Emirin yazılım şeysileri\c#\DeleteToValuesInDictionary\DeleteToValuesInDictionary\obj\Debug\net7.0\DeleteToValuesInDictionary.csproj.AssemblyReference.cache
+D:\Emirin yazılım şeysileri\c#\DeleteToValuesInDictionary\DeleteToValuesInDictionary\obj\Debug\net7.0\DeleteToValuesInDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emirin yazılım şeysileri\c#\DeleteToValuesInDictionary\DeleteToValuesInDictionary\obj\Debug\net7.0\DeleteToValuesInDictionary.AssemblyInfoInputs.cache
+D:\Emirin yazılım şeysileri\c#\DeleteToValuesInDictionary\DeleteToValuesInDictionary\obj\Debug\net7.0\DeleteToValuesInDictionary.AssemblyInfo.cs
+D:\Emirin yazılım şeysileri\c#\DeleteToValuesInDictionary\DeleteToValuesInDictionary\obj\Debug\net7.0\DeleteToValuesInDictionary.csproj.CoreCompileInputs.cache
+D:\Emirin yazılım şeysileri\c#\DeleteToValuesInDictionary\DeleteToValuesInDictionary\obj\Debug\net7.0\DeleteToValuesInDictionary.dll
+D:\Emirin yazılım şeysileri\c#\DeleteToValuesInDictionary\DeleteToValuesInDictionary\obj\Debug\net7.0\refint\DeleteToValuesInDictionary.dll
+D:\Emirin yazılım şeysileri\c#\DeleteToValuesInDictionary\DeleteToValuesInDictionary\obj\Debug\net7.0\DeleteToValuesInDictionary.pdb
+D:\Emirin yazılım şeysileri\c#\DeleteToValuesInDictionary\DeleteToValuesInDictionary\obj\Debug\net7.0\DeleteToValuesInDictionary.genruntimeconfig.cache
+D:\Emirin yazılım şeysileri\c#\DeleteToValuesInDictionary\DeleteToValuesInDictionary\obj\Debug\net7.0\ref\DeleteToValuesInDictionary.dll
