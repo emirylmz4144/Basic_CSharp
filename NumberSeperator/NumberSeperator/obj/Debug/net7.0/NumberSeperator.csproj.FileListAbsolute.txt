@@ -1,0 +1,15 @@
+D:\Emirin yazılım şeysileri\cSharp-101\NumberSeperator\NumberSeperator\bin\Debug\net7.0\NumberSeperator.exe
+D:\Emirin yazılım şeysileri\cSharp-101\NumberSeperator\NumberSeperator\bin\Debug\net7.0\NumberSeperator.deps.json
+D:\Emirin yazılım şeysileri\cSharp-101\NumberSeperator\NumberSeperator\bin\Debug\net7.0\NumberSeperator.runtimeconfig.json
+D:\Emirin yazılım şeysileri\cSharp-101\NumberSeperator\NumberSeperator\bin\Debug\net7.0\NumberSeperator.dll
+D:\Emirin yazılım şeysileri\cSharp-101\NumberSeperator\NumberSeperator\bin\Debug\net7.0\NumberSeperator.pdb
+D:\Emirin yazılım şeysileri\cSharp-101\NumberSeperator\NumberSeperator\obj\Debug\net7.0\NumberSeperator.csproj.AssemblyReference.cache
+D:\Emirin yazılım şeysileri\cSharp-101\NumberSeperator\NumberSeperator\obj\Debug\net7.0\NumberSeperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emirin yazılım şeysileri\cSharp-101\NumberSeperator\NumberSeperator\obj\Debug\net7.0\NumberSeperator.AssemblyInfoInputs.cache
+D:\Emirin yazılım şeysileri\cSharp-101\NumberSeperator\NumberSeperator\obj\Debug\net7.0\NumberSeperator.AssemblyInfo.cs
+D:\Emirin yazılım şeysileri\cSharp-101\NumberSeperator\NumberSeperator\obj\Debug\net7.0\NumberSeperator.csproj.CoreCompileInputs.cache
+D:\Emirin yazılım şeysileri\cSharp-101\NumberSeperator\NumberSeperator\obj\Debug\net7.0\NumberSeperator.dll
+D:\Emirin yazılım şeysileri\cSharp-101\NumberSeperator\NumberSeperator\obj\Debug\net7.0\refint\NumberSeperator.dll
+D:\Emirin yazılım şeysileri\cSharp-101\NumberSeperator\NumberSeperator\obj\Debug\net7.0\NumberSeperator.pdb
+D:\Emirin yazılım şeysileri\cSharp-101\NumberSeperator\NumberSeperator\obj\Debug\net7.0\NumberSeperator.genruntimeconfig.cache
+D:\Emirin yazılım şeysileri\cSharp-101\NumberSeperator\NumberSeperator\obj\Debug\net7.0\ref\NumberSeperator.dll
