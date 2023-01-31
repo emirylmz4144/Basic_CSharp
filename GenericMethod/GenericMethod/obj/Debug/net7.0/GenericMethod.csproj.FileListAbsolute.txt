@@ -1,0 +1,15 @@
+D:\Emirin yazılım şeysileri\c#\GenericMethod\GenericMethod\bin\Debug\net7.0\GenericMethod.exe
+D:\Emirin yazılım şeysileri\c#\GenericMethod\GenericMethod\bin\Debug\net7.0\GenericMethod.deps.json
+D:\Emirin yazılım şeysileri\c#\GenericMethod\GenericMethod\bin\Debug\net7.0\GenericMethod.runtimeconfig.json
+D:\Emirin yazılım şeysileri\c#\GenericMethod\GenericMethod\bin\Debug\net7.0\GenericMethod.dll
+D:\Emirin yazılım şeysileri\c#\GenericMethod\GenericMethod\bin\Debug\net7.0\GenericMethod.pdb
+D:\Emirin yazılım şeysileri\c#\GenericMethod\GenericMethod\obj\Debug\net7.0\GenericMethod.csproj.AssemblyReference.cache
+D:\Emirin yazılım şeysileri\c#\GenericMethod\GenericMethod\obj\Debug\net7.0\GenericMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emirin yazılım şeysileri\c#\GenericMethod\GenericMethod\obj\Debug\net7.0\GenericMethod.AssemblyInfoInputs.cache
+D:\Emirin yazılım şeysileri\c#\GenericMethod\GenericMethod\obj\Debug\net7.0\GenericMethod.AssemblyInfo.cs
+D:\Emirin yazılım şeysileri\c#\GenericMethod\GenericMethod\obj\Debug\net7.0\GenericMethod.csproj.CoreCompileInputs.cache
+D:\Emirin yazılım şeysileri\c#\GenericMethod\GenericMethod\obj\Debug\net7.0\GenericMethod.dll
+D:\Emirin yazılım şeysileri\c#\GenericMethod\GenericMethod\obj\Debug\net7.0\refint\GenericMethod.dll
+D:\Emirin yazılım şeysileri\c#\GenericMethod\GenericMethod\obj\Debug\net7.0\GenericMethod.pdb
+D:\Emirin yazılım şeysileri\c#\GenericMethod\GenericMethod\obj\Debug\net7.0\GenericMethod.genruntimeconfig.cache
+D:\Emirin yazılım şeysileri\c#\GenericMethod\GenericMethod\obj\Debug\net7.0\ref\GenericMethod.dll

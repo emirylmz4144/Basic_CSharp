@@ -1,0 +1,15 @@
+D:\Emirin yazılım şeysileri\cSharp-101\SortStringValueByIndex\SortStringValueByIndex\bin\Debug\net7.0\SortStringValueByIndex.exe
+D:\Emirin yazılım şeysileri\cSharp-101\SortStringValueByIndex\SortStringValueByIndex\bin\Debug\net7.0\SortStringValueByIndex.deps.json
+D:\Emirin yazılım şeysileri\cSharp-101\SortStringValueByIndex\SortStringValueByIndex\bin\Debug\net7.0\SortStringValueByIndex.runtimeconfig.json
+D:\Emirin yazılım şeysileri\cSharp-101\SortStringValueByIndex\SortStringValueByIndex\bin\Debug\net7.0\SortStringValueByIndex.dll
+D:\Emirin yazılım şeysileri\cSharp-101\SortStringValueByIndex\SortStringValueByIndex\bin\Debug\net7.0\SortStringValueByIndex.pdb
+D:\Emirin yazılım şeysileri\cSharp-101\SortStringValueByIndex\SortStringValueByIndex\obj\Debug\net7.0\SortStringValueByIndex.csproj.AssemblyReference.cache
+D:\Emirin yazılım şeysileri\cSharp-101\SortStringValueByIndex\SortStringValueByIndex\obj\Debug\net7.0\SortStringValueByIndex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emirin yazılım şeysileri\cSharp-101\SortStringValueByIndex\SortStringValueByIndex\obj\Debug\net7.0\SortStringValueByIndex.AssemblyInfoInputs.cache
+D:\Emirin yazılım şeysileri\cSharp-101\SortStringValueByIndex\SortStringValueByIndex\obj\Debug\net7.0\SortStringValueByIndex.AssemblyInfo.cs
+D:\Emirin yazılım şeysileri\cSharp-101\SortStringValueByIndex\SortStringValueByIndex\obj\Debug\net7.0\SortStringValueByIndex.csproj.CoreCompileInputs.cache
+D:\Emirin yazılım şeysileri\cSharp-101\SortStringValueByIndex\SortStringValueByIndex\obj\Debug\net7.0\SortStringValueByIndex.dll
+D:\Emirin yazılım şeysileri\cSharp-101\SortStringValueByIndex\SortStringValueByIndex\obj\Debug\net7.0\refint\SortStringValueByIndex.dll
+D:\Emirin yazılım şeysileri\cSharp-101\SortStringValueByIndex\SortStringValueByIndex\obj\Debug\net7.0\SortStringValueByIndex.pdb
+D:\Emirin yazılım şeysileri\cSharp-101\SortStringValueByIndex\SortStringValueByIndex\obj\Debug\net7.0\SortStringValueByIndex.genruntimeconfig.cache
+D:\Emirin yazılım şeysileri\cSharp-101\SortStringValueByIndex\SortStringValueByIndex\obj\Debug\net7.0\ref\SortStringValueByIndex.dll
