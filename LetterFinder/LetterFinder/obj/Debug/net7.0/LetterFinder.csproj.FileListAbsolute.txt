@@ -1,0 +1,15 @@
+D:\Emirin yazılım şeysileri\cSharp-101\LetterFinder\LetterFinder\bin\Debug\net7.0\LetterFinder.exe
+D:\Emirin yazılım şeysileri\cSharp-101\LetterFinder\LetterFinder\bin\Debug\net7.0\LetterFinder.deps.json
+D:\Emirin yazılım şeysileri\cSharp-101\LetterFinder\LetterFinder\bin\Debug\net7.0\LetterFinder.runtimeconfig.json
+D:\Emirin yazılım şeysileri\cSharp-101\LetterFinder\LetterFinder\bin\Debug\net7.0\LetterFinder.dll
+D:\Emirin yazılım şeysileri\cSharp-101\LetterFinder\LetterFinder\bin\Debug\net7.0\LetterFinder.pdb
+D:\Emirin yazılım şeysileri\cSharp-101\LetterFinder\LetterFinder\obj\Debug\net7.0\LetterFinder.csproj.AssemblyReference.cache
+D:\Emirin yazılım şeysileri\cSharp-101\LetterFinder\LetterFinder\obj\Debug\net7.0\LetterFinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emirin yazılım şeysileri\cSharp-101\LetterFinder\LetterFinder\obj\Debug\net7.0\LetterFinder.AssemblyInfoInputs.cache
+D:\Emirin yazılım şeysileri\cSharp-101\LetterFinder\LetterFinder\obj\Debug\net7.0\LetterFinder.AssemblyInfo.cs
+D:\Emirin yazılım şeysileri\cSharp-101\LetterFinder\LetterFinder\obj\Debug\net7.0\LetterFinder.csproj.CoreCompileInputs.cache
+D:\Emirin yazılım şeysileri\cSharp-101\LetterFinder\LetterFinder\obj\Debug\net7.0\LetterFinder.dll
+D:\Emirin yazılım şeysileri\cSharp-101\LetterFinder\LetterFinder\obj\Debug\net7.0\refint\LetterFinder.dll
+D:\Emirin yazılım şeysileri\cSharp-101\LetterFinder\LetterFinder\obj\Debug\net7.0\LetterFinder.pdb
+D:\Emirin yazılım şeysileri\cSharp-101\LetterFinder\LetterFinder\obj\Debug\net7.0\LetterFinder.genruntimeconfig.cache
+D:\Emirin yazılım şeysileri\cSharp-101\LetterFinder\LetterFinder\obj\Debug\net7.0\ref\LetterFinder.dll
