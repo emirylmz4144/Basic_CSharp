@@ -1,0 +1,15 @@
+D:\Emirin yazılım şeysileri\c#\enumExample\enumExample\bin\Debug\net7.0\enumExample.exe
+D:\Emirin yazılım şeysileri\c#\enumExample\enumExample\bin\Debug\net7.0\enumExample.deps.json
+D:\Emirin yazılım şeysileri\c#\enumExample\enumExample\bin\Debug\net7.0\enumExample.runtimeconfig.json
+D:\Emirin yazılım şeysileri\c#\enumExample\enumExample\bin\Debug\net7.0\enumExample.dll
+D:\Emirin yazılım şeysileri\c#\enumExample\enumExample\bin\Debug\net7.0\enumExample.pdb
+D:\Emirin yazılım şeysileri\c#\enumExample\enumExample\obj\Debug\net7.0\enumExample.csproj.AssemblyReference.cache
+D:\Emirin yazılım şeysileri\c#\enumExample\enumExample\obj\Debug\net7.0\enumExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emirin yazılım şeysileri\c#\enumExample\enumExample\obj\Debug\net7.0\enumExample.AssemblyInfoInputs.cache
+D:\Emirin yazılım şeysileri\c#\enumExample\enumExample\obj\Debug\net7.0\enumExample.AssemblyInfo.cs
+D:\Emirin yazılım şeysileri\c#\enumExample\enumExample\obj\Debug\net7.0\enumExample.csproj.CoreCompileInputs.cache
+D:\Emirin yazılım şeysileri\c#\enumExample\enumExample\obj\Debug\net7.0\enumExample.dll
+D:\Emirin yazılım şeysileri\c#\enumExample\enumExample\obj\Debug\net7.0\refint\enumExample.dll
+D:\Emirin yazılım şeysileri\c#\enumExample\enumExample\obj\Debug\net7.0\enumExample.pdb
+D:\Emirin yazılım şeysileri\c#\enumExample\enumExample\obj\Debug\net7.0\enumExample.genruntimeconfig.cache
+D:\Emirin yazılım şeysileri\c#\enumExample\enumExample\obj\Debug\net7.0\ref\enumExample.dll

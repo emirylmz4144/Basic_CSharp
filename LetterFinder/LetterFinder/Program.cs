@@ -10,14 +10,8 @@ namespace LetterFinder
             string sentence = Console.ReadLine();
 
             wowels(sentence);
-            wowelsQuality(sentence);
-            
-            
-
-
-            
-
-          
+            wowelsQuality(sentence); 
+     
         }
 
         static void wowels(string sentence)
