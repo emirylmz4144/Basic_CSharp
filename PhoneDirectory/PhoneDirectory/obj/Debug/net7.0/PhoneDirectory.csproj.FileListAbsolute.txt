@@ -1,0 +1,15 @@
+D:\Emirin yazılım şeysileri\cSharp-101\PhoneDirectory\PhoneDirectory\bin\Debug\net7.0\PhoneDirectory.exe
+D:\Emirin yazılım şeysileri\cSharp-101\PhoneDirectory\PhoneDirectory\bin\Debug\net7.0\PhoneDirectory.deps.json
+D:\Emirin yazılım şeysileri\cSharp-101\PhoneDirectory\PhoneDirectory\bin\Debug\net7.0\PhoneDirectory.runtimeconfig.json
+D:\Emirin yazılım şeysileri\cSharp-101\PhoneDirectory\PhoneDirectory\bin\Debug\net7.0\PhoneDirectory.dll
+D:\Emirin yazılım şeysileri\cSharp-101\PhoneDirectory\PhoneDirectory\bin\Debug\net7.0\PhoneDirectory.pdb
+D:\Emirin yazılım şeysileri\cSharp-101\PhoneDirectory\PhoneDirectory\obj\Debug\net7.0\PhoneDirectory.csproj.AssemblyReference.cache
+D:\Emirin yazılım şeysileri\cSharp-101\PhoneDirectory\PhoneDirectory\obj\Debug\net7.0\PhoneDirectory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emirin yazılım şeysileri\cSharp-101\PhoneDirectory\PhoneDirectory\obj\Debug\net7.0\PhoneDirectory.AssemblyInfoInputs.cache
+D:\Emirin yazılım şeysileri\cSharp-101\PhoneDirectory\PhoneDirectory\obj\Debug\net7.0\PhoneDirectory.AssemblyInfo.cs
+D:\Emirin yazılım şeysileri\cSharp-101\PhoneDirectory\PhoneDirectory\obj\Debug\net7.0\PhoneDirectory.csproj.CoreCompileInputs.cache
+D:\Emirin yazılım şeysileri\cSharp-101\PhoneDirectory\PhoneDirectory\obj\Debug\net7.0\PhoneDirectory.dll
+D:\Emirin yazılım şeysileri\cSharp-101\PhoneDirectory\PhoneDirectory\obj\Debug\net7.0\refint\PhoneDirectory.dll
+D:\Emirin yazılım şeysileri\cSharp-101\PhoneDirectory\PhoneDirectory\obj\Debug\net7.0\PhoneDirectory.pdb
+D:\Emirin yazılım şeysileri\cSharp-101\PhoneDirectory\PhoneDirectory\obj\Debug\net7.0\PhoneDirectory.genruntimeconfig.cache
+D:\Emirin yazılım şeysileri\cSharp-101\PhoneDirectory\PhoneDirectory\obj\Debug\net7.0\ref\PhoneDirectory.dll
