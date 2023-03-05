@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "absoluteSquaring", "absoluteSquaring\absoluteSquaring.csproj", "{335F9922-6092-4E66-A170-FB6AD754142E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{335F9922-6092-4E66-A170-FB6AD754142E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335F9922-6092-4E66-A170-FB6AD754142E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335F9922-6092-4E66-A170-FB6AD754142E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335F9922-6092-4E66-A170-FB6AD754142E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9D2BED2-CA4C-4C07-9F42-07F9D6672B8A}
+	EndGlobalSection
+EndGlobal
