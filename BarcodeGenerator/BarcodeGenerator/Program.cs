@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Drawing;
 using BarcodeLib;
 using ZXing;
@@ -25,40 +26,32 @@ namespace BarcodeGenerator
             Barcode barcode = new Barcode();
             barcode.IncludeLabel = true;
 
-            //Barkodu resme dönüştürme
-            Image img = barcode.Encode(TYPE.CODE128, word); 
+            Image img = barcode.Encode(TYPE.CODE128, word); //Barkodu resme dönüştürme
 
-
-            // Barkod resmini Bitmap'e dönüştürme
-            Bitmap bmp = new Bitmap(img);
+            Bitmap bmp = new Bitmap(img);// Barkod resmini Bitmap'e dönüştürme
 
             string filePath = @"D:\Emirin yazılım şeysileri\CSharp--101\BarcodeGenerator\BarcodeGenerator\barcode.png";
 
-            // Barkodu dosyaya kaydetme
-            bmp.Save(filePath);
+            bmp.Save(filePath);// Barkodu dosyaya kaydetme
         }
-
+        
 
         static void readBarcode()
         {
-            Console.WriteLine("Barkod okuma işlemi başlatılıyor...");
+            
+            BarcodeReader barcodeReader = new BarcodeReader(); // Barkod okuyucu nesnesi oluşturma
 
-            // Barkod okuyucu nesnesi oluşturma
-            BarcodeReader barcodeReader = new BarcodeReader();
+            barcodeReader.Options.TryHarder = true; //Daha doğru okuma için
+
             var barcodeBitMap = new Bitmap(@"D:\Emirin yazılım şeysileri\CSharp--101\BarcodeGenerator\BarcodeGenerator\barcode.png");
-
-            // Barkodu okuma
-            var result = barcodeReader.Decode(barcodeBitMap);
-
-            // Eğer barkod okunamazsa sonuç null olacaktır
-            if (result != null)
-            {
+            
+            var result = barcodeReader.Decode(barcodeBitMap); // Barkodu okuma
+            
+            if (result != null) // Eğer barkod okunamazsa sonuç null olacaktır
                 Console.WriteLine("Barkod içeriği: " + result.Text);
-            }
-            else
-            {
+            else 
                 Console.WriteLine("Barkod okunamadı.");
-            }
+            
 
             // Konsol penceresini açık tutmak için
             Console.ReadKey();
