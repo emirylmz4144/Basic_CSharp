@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections;
-using System.Drawing;
+﻿using System.Drawing;
 using BarcodeLib;
 using ZXing;
-using ZXing.Common;
-using ZXing.QrCode.Internal;
-using static System.Net.Mime.MediaTypeNames;
-using Image = System.Drawing.Image;
+
 
 namespace BarcodeGenerator
 {
@@ -24,7 +19,7 @@ namespace BarcodeGenerator
         static void writeBarcode(string word)
         {
             Barcode barcode = new Barcode();
-            barcode.IncludeLabel = true;
+           
 
             Image img = barcode.Encode(TYPE.CODE128, word); //Barkodu resme dönüştürme
 

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmApplication", "AtmApplication\AtmApplication.csproj", "{D764689D-5009-45C1-A8E3-848FB6AE9D06}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmApplications", "AtmApplications\AtmApplications.csproj", "{99E5EE5D-2F7A-4709-9F0A-F3ADC44142FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D764689D-5009-45C1-A8E3-848FB6AE9D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D764689D-5009-45C1-A8E3-848FB6AE9D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D764689D-5009-45C1-A8E3-848FB6AE9D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D764689D-5009-45C1-A8E3-848FB6AE9D06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E5EE5D-2F7A-4709-9F0A-F3ADC44142FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E5EE5D-2F7A-4709-9F0A-F3ADC44142FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E5EE5D-2F7A-4709-9F0A-F3ADC44142FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E5EE5D-2F7A-4709-9F0A-F3ADC44142FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3FA3BE2C-CD2D-4F5E-9DB5-5DF5E71105C7}
+		SolutionGuid = {9F1114E6-A7EB-440A-836E-5CB6A9B3D20E}
 	EndGlobalSection
 EndGlobal
