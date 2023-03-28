@@ -1,0 +1,4 @@
+6877 kimlik numaralı cesim kişisi 28.03.2023 15:25:29 - tarihinde başarılı giriş yaptı.
+6877 kimlik numaralı cesim kişisi 28.03.2023 15:25:58 tarihinde 7768 kimlik numaralı mecbure kişisine 300 miktarda başarılı para gönderme işlemi gerçekleştirmiştir
+6877 kimlik numaralı cesim kişisi 28.03.2023 15:26:08 tarihinde bakiyesini görüntülemiştir
+6877 kimlik numaralı cesim kişisi 28.03.2023 15:26:11 tarihinde hesabından çıkış yapmıştır

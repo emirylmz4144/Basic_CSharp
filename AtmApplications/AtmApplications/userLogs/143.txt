@@ -1,0 +1,4 @@
+143 kimlik numaralı beyhun kişisi 28.03.2023 15:26:26 - tarihinde başarılı giriş yaptı.
+143 kimlik numaralı beyhun kişisi 28.03.2023 15:26:34 tarihinde 10000 miktarda başarılı para yatırma işlemi denemesi gerçekleştirmiştir
+143 kimlik numaralı beyhun kişisi 28.03.2023 15:27:17 tarihinde 4144 kimlik numaralı emir kişisine 10000 miktarda başarılı para gönderme işlemi gerçekleştirmiştir
+143 kimlik numaralı beyhun kişisi 28.03.2023 15:27:20 tarihinde hesabından çıkış yapmıştır

@@ -1,5 +1,4 @@
-4144 kimlik numaralı emir kişisi 27.03.2023 22:06:42 - tarihinde başarılı giriş yaptı.
-4144 kimlik numaralı emir kişisi 27.03.2023 22:07:28 tarihinde 200 miktarda başarılı para çekme işlemı gerçekleştirmiştir
-4144 kimlik numaralı 4144 kişisi 27.03.2023 22:08:25 tarihinde 9977 kimlik numaralı bilal kişisine 100 miktarda başarılı para gönderme işlemi gerçekleştirmiştir
-4144 kimlik numaralı emir kişisi 27.03.2023 22:08:32 tarihinde bakiyesini görüntülemiştir
-4144 kimlik numaralı emir kişisi 27.03.2023 22:08:38 tarihinde hesabından çıkış yapmıştır
+4144 kimlik numaralı emir kişisi 28.03.2023 15:24:10 - tarihinde başarılı giriş yaptı.
+4144 kimlik numaralı emir kişisi 28.03.2023 15:24:27 tarihinde 9977 kimlik numaralı bilal kişisine 100 miktarda başarılı para gönderme işlemi gerçekleştirmiştir
+4144 kimlik numaralı emir kişisi 28.03.2023 15:24:30 tarihinde hesabından çıkış yapmıştır
+4144 kimlik numaralı emir kişisi 28.03.2023 15:27:17 tarihinde 143 kimlik numaralı beyhun kişisinden 10000 miktarda başarılı para alma işlemi  gerçekleştirmiştir
